@@ -1,0 +1,2114 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.34904148171117,
+              -37.52747684493652,
+              0
+            ],
+            [
+              -72.34913993881705,
+              -37.5284312785833,
+              0
+            ],
+            [
+              -72.34667952623225,
+              -37.5286274183871,
+              0
+            ],
+            [
+              -72.34665336893073,
+              -37.52835363839338,
+              0
+            ],
+            [
+              -72.34661806736949,
+              -37.52830452130041,
+              0
+            ],
+            [
+              -72.34541857560944,
+              -37.52869616235464,
+              0
+            ],
+            [
+              -72.34519813232617,
+              -37.52845800371858,
+              0
+            ],
+            [
+              -72.34643337689684,
+              -37.52772266847055,
+              0
+            ],
+            [
+              -72.34904148171117,
+              -37.52747684493652,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-0",
+        "item_id": "1828",
+        "name": "SECTOR 1",
+        "code": "11291828-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.34932725621002,
+              -37.52946774711513,
+              0
+            ],
+            [
+              -72.34951520837008,
+              -37.53113485476192,
+              0
+            ],
+            [
+              -72.34720949398188,
+              -37.53135048143661,
+              0
+            ],
+            [
+              -72.3465021066049,
+              -37.53041906069873,
+              0
+            ],
+            [
+              -72.34647549116977,
+              -37.53036302321324,
+              0
+            ],
+            [
+              -72.34604415176615,
+              -37.52970477558236,
+              0
+            ],
+            [
+              -72.34932725621002,
+              -37.52946774711513,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-1",
+        "item_id": "1828",
+        "name": "SECTOR 1",
+        "code": "11291828-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3509093307952,
+              -37.53351193600562,
+              0
+            ],
+            [
+              -72.34997841919684,
+              -37.53370361706969,
+              0
+            ],
+            [
+              -72.348507566373,
+              -37.5335611628861,
+              0
+            ],
+            [
+              -72.34792841969849,
+              -37.53362241919256,
+              0
+            ],
+            [
+              -72.34603487068439,
+              -37.53362107397892,
+              0
+            ],
+            [
+              -72.3458803609492,
+              -37.53321163720699,
+              0
+            ],
+            [
+              -72.34599773793504,
+              -37.53275637763598,
+              0
+            ],
+            [
+              -72.35066218399278,
+              -37.53242295824906,
+              0
+            ],
+            [
+              -72.3509093307952,
+              -37.53351193600562,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-2",
+        "item_id": "1828",
+        "name": "SECTOR 2",
+        "code": "11291828-2",
+        "matriz": "NULL",
+        "sector": "2",
+        "associate": "1803",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.34971873007747,
+              -37.53237991308429,
+              0
+            ],
+            [
+              -72.34774541180056,
+              -37.5325064158321,
+              0
+            ],
+            [
+              -72.34775594717416,
+              -37.53210608788215,
+              0
+            ],
+            [
+              -72.34720070261677,
+              -37.53137046578332,
+              0
+            ],
+            [
+              -72.34951514381272,
+              -37.53118045625236,
+              0
+            ],
+            [
+              -72.34971873007747,
+              -37.53237991308429,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-3",
+        "item_id": "1828",
+        "name": "SECTOR 2",
+        "code": "11291828-2",
+        "matriz": "NULL",
+        "sector": "2",
+        "associate": "1803",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3512464770369,
+              -37.52834188461419,
+              0
+            ],
+            [
+              -72.3514679020697,
+              -37.5298551783338,
+              0
+            ],
+            [
+              -72.3495134928153,
+              -37.53035812715249,
+              0
+            ],
+            [
+              -72.34929362253392,
+              -37.52887329299908,
+              0
+            ],
+            [
+              -72.3512464770369,
+              -37.52834188461419,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-4",
+        "item_id": "1828",
+        "name": "SECTOR 3",
+        "code": "11291828-3",
+        "matriz": "NULL",
+        "sector": "3",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.351467903134,
+              -37.52988270541419,
+              0
+            ],
+            [
+              -72.35157118401263,
+              -37.53073448725046,
+              0
+            ],
+            [
+              -72.35057696503374,
+              -37.53101960491136,
+              0
+            ],
+            [
+              -72.35043816193327,
+              -37.53015795517612,
+              0
+            ],
+            [
+              -72.351467903134,
+              -37.52988270541419,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-5",
+        "item_id": "1828",
+        "name": "SECTOR 3",
+        "code": "11291828-3",
+        "matriz": "NULL",
+        "sector": "3",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35107335813338,
+              -37.52729745875151,
+              0
+            ],
+            [
+              -72.351246405795,
+              -37.52826865081675,
+              0
+            ],
+            [
+              -72.34925891466513,
+              -37.52881828800975,
+              0
+            ],
+            [
+              -72.3491095472107,
+              -37.52752642956815,
+              0
+            ],
+            [
+              -72.35107335813338,
+              -37.52729745875151,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-6",
+        "item_id": "1828",
+        "name": "SECTOR 4",
+        "code": "11291828-4",
+        "matriz": "NULL",
+        "sector": "4",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35161743265095,
+              -37.53078949809785,
+              0
+            ],
+            [
+              -72.35177955196386,
+              -37.53216526939585,
+              0
+            ],
+            [
+              -72.34983694934303,
+              -37.53234845902228,
+              0
+            ],
+            [
+              -72.34961743682024,
+              -37.53133918492467,
+              0
+            ],
+            [
+              -72.35161743265095,
+              -37.53078949809785,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-7",
+        "item_id": "1828",
+        "name": "SECTOR 4",
+        "code": "11291828-4",
+        "matriz": "NULL",
+        "sector": "4",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.34539185617577,
+              -37.52876627150449,
+              0
+            ],
+            [
+              -72.34659143461148,
+              -37.52837469038059,
+              0
+            ],
+            [
+              -72.34661751608492,
+              -37.52868360504136,
+              0
+            ],
+            [
+              -72.34919307768413,
+              -37.52849446959579,
+              0
+            ],
+            [
+              -72.34933417255218,
+              -37.52942071287372,
+              0
+            ],
+            [
+              -72.34600789527967,
+              -37.52967198081593,
+              0
+            ],
+            [
+              -72.34539185617577,
+              -37.52876627150449,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-8",
+        "item_id": "1828",
+        "name": "SECTOR 5",
+        "code": "11291828-5",
+        "matriz": "NULL",
+        "sector": "5",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.34598867842399,
+              -37.53264143317435,
+              0
+            ],
+            [
+              -72.34582599510544,
+              -37.53208177365129,
+              0
+            ],
+            [
+              -72.34693807832193,
+              -37.53193236275609,
+              0
+            ],
+            [
+              -72.34601585978604,
+              -37.53036229374675,
+              0
+            ],
+            [
+              -72.34523838909632,
+              -37.53057009696568,
+              0
+            ],
+            [
+              -72.34461610561317,
+              -37.52934562097477,
+              0
+            ],
+            [
+              -72.34479702417818,
+              -37.52925297838635,
+              0
+            ],
+            [
+              -72.34478799361574,
+              -37.52904535942509,
+              0
+            ],
+            [
+              -72.34532962027204,
+              -37.52877339935277,
+              0
+            ],
+            [
+              -72.34760798391095,
+              -37.53215537068003,
+              0
+            ],
+            [
+              -72.34769151133216,
+              -37.5325448643954,
+              0
+            ],
+            [
+              -72.34598867842399,
+              -37.53264143317435,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-9",
+        "item_id": "1828",
+        "name": "SECTOR 5",
+        "code": "11291828-5",
+        "matriz": "NULL",
+        "sector": "5",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3490269349043,
+              -37.52745041311496,
+              0
+            ],
+            [
+              -72.34646802587477,
+              -37.52766689727081,
+              0
+            ],
+            [
+              -72.34686510553756,
+              -37.52740245696882,
+              0
+            ],
+            [
+              -72.34884221955447,
+              -37.52656865060315,
+              0
+            ],
+            [
+              -72.3490269349043,
+              -37.52745041311496,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-10",
+        "item_id": "1828",
+        "name": "SECTOR 9",
+        "code": "11291828-9",
+        "matriz": "NULL",
+        "sector": "9",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3500816576394,
+              -37.52611171101707,
+              0
+            ],
+            [
+              -72.35093127196636,
+              -37.52613294028195,
+              0
+            ],
+            [
+              -72.35115305446938,
+              -37.52709854179218,
+              0
+            ],
+            [
+              -72.34907232376476,
+              -37.52745749777832,
+              0
+            ],
+            [
+              -72.34889824478694,
+              -37.52661322848218,
+              0
+            ],
+            [
+              -72.3500816576394,
+              -37.52611171101707,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-11",
+        "item_id": "1828",
+        "name": "SECTOR 9",
+        "code": "11291828-9",
+        "matriz": "NULL",
+        "sector": "9",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35354678483799,
+              -37.52787414797914,
+              0
+            ],
+            [
+              -72.35364055911205,
+              -37.52870815752349,
+              0
+            ],
+            [
+              -72.35138561214617,
+              -37.528836526633,
+              0
+            ],
+            [
+              -72.35121164343708,
+              -37.52774675822422,
+              0
+            ],
+            [
+              -72.35354678483799,
+              -37.52787414797914,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-12",
+        "item_id": "1828",
+        "name": "SECTOR 8",
+        "code": "11291828-8",
+        "matriz": "NULL",
+        "sector": "8",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35365212319215,
+              -37.52874483068883,
+              0
+            ],
+            [
+              -72.3537222692327,
+              -37.52932258297719,
+              0
+            ],
+            [
+              -72.35145626213692,
+              -37.52955233986167,
+              0
+            ],
+            [
+              -72.35137416853578,
+              -37.52888237280126,
+              0
+            ],
+            [
+              -72.35365212319215,
+              -37.52874483068883,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-13",
+        "item_id": "1828",
+        "name": "SECTOR 7",
+        "code": "11291828-7",
+        "matriz": "NULL",
+        "sector": "7",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35364723110723,
+              -37.53267226035081,
+              0
+            ],
+            [
+              -72.353574713527,
+              -37.53224304612511,
+              0
+            ],
+            [
+              -72.35915225096633,
+              -37.53182130477723,
+              0
+            ],
+            [
+              -72.35904253796681,
+              -37.53266060552536,
+              0
+            ],
+            [
+              -72.35224892206375,
+              -37.53402582743527,
+              0
+            ],
+            [
+              -72.35202926127884,
+              -37.53290800482658,
+              0
+            ],
+            [
+              -72.35364723110723,
+              -37.53267226035081,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-14",
+        "item_id": "1827",
+        "name": "SECTOR 1",
+        "code": "11291827-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35906880148428,
+              -37.53172762482913,
+              0
+            ],
+            [
+              -72.35414781857233,
+              -37.53215127664446,
+              0
+            ],
+            [
+              -72.35398831582688,
+              -37.53120406392264,
+              0
+            ],
+            [
+              -72.35649371585166,
+              -37.53100437224348,
+              0
+            ],
+            [
+              -72.35637531143611,
+              -37.52880583383225,
+              0
+            ],
+            [
+              -72.35893225167045,
+              -37.52890025721777,
+              0
+            ],
+            [
+              -72.35906880148428,
+              -37.53172762482913,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-15",
+        "item_id": "1827",
+        "name": "SECTOR 5",
+        "code": "11291827-5",
+        "matriz": "NULL",
+        "sector": "5",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "HIERBAS MEDICINALES",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36038277538714,
+              -37.52878258791124,
+              0
+            ],
+            [
+              -72.36042228579441,
+              -37.53244852808804,
+              0
+            ],
+            [
+              -72.35920484146216,
+              -37.53244504536828,
+              0
+            ],
+            [
+              -72.35900477414852,
+              -37.52862340104792,
+              0
+            ],
+            [
+              -72.36038277538714,
+              -37.52878258791124,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-16",
+        "item_id": "1827",
+        "name": "SECTOR 7",
+        "code": "11291827-7",
+        "matriz": "NULL",
+        "sector": "7",
+        "associate": "1805",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36134230882728,
+              -37.52890896083751,
+              0
+            ],
+            [
+              -72.36151954793627,
+              -37.53259211177257,
+              0
+            ],
+            [
+              -72.36047510183806,
+              -37.53244762498835,
+              0
+            ],
+            [
+              -72.36046484707111,
+              -37.5287666724865,
+              0
+            ],
+            [
+              -72.36134230882728,
+              -37.52890896083751,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-17",
+        "item_id": "1827",
+        "name": "SECTOR 8",
+        "code": "11291827-8",
+        "matriz": "NULL",
+        "sector": "8",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36557636401201,
+              -37.53174204007986,
+              0
+            ],
+            [
+              -72.36561263226207,
+              -37.53210948743356,
+              0
+            ],
+            [
+              -72.36559532433634,
+              -37.53272791232186,
+              0
+            ],
+            [
+              -72.36389434901348,
+              -37.53283706090124,
+              0
+            ],
+            [
+              -72.36157642711665,
+              -37.53259162791798,
+              0
+            ],
+            [
+              -72.36153777260246,
+              -37.53195346290825,
+              0
+            ],
+            [
+              -72.36557636401201,
+              -37.53174204007986,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-18",
+        "item_id": "1832",
+        "name": "SECTOR 1",
+        "code": "11291832-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36155194277202,
+              -37.53191890569891,
+              0
+            ],
+            [
+              -72.36144123694606,
+              -37.53035999863711,
+              0
+            ],
+            [
+              -72.36449544848035,
+              -37.53018054988648,
+              0
+            ],
+            [
+              -72.36441669494482,
+              -37.53178482048671,
+              0
+            ],
+            [
+              -72.36155194277202,
+              -37.53191890569891,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-19",
+        "item_id": "1832",
+        "name": "SECTOR 2",
+        "code": "11291832-2",
+        "matriz": "NULL",
+        "sector": "2",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36566126871746,
+              -37.53010779506982,
+              0
+            ],
+            [
+              -72.36640100444991,
+              -37.53001767942335,
+              0
+            ],
+            [
+              -72.3662495664432,
+              -37.53264363907847,
+              0
+            ],
+            [
+              -72.36565346954129,
+              -37.53271742900152,
+              0
+            ],
+            [
+              -72.36566126871746,
+              -37.53010779506982,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-20",
+        "item_id": "1832",
+        "name": "SECTOR 4",
+        "code": "11291832-4",
+        "matriz": "NULL",
+        "sector": "4",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.36560239442983,
+              -37.53013645676869,
+              0
+            ],
+            [
+              -72.3655754260315,
+              -37.53170679990973,
+              0
+            ],
+            [
+              -72.36446572396734,
+              -37.53177313806204,
+              0
+            ],
+            [
+              -72.36459996641433,
+              -37.53016588728436,
+              0
+            ],
+            [
+              -72.36560239442983,
+              -37.53013645676869,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-21",
+        "item_id": "1832",
+        "name": "SECTOR 8",
+        "code": "11291832-8",
+        "matriz": "NULL",
+        "sector": "8",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.3614714002203,
+              -37.53028797396807,
+              0
+            ],
+            [
+              -72.36137918571355,
+              -37.52889841164572,
+              0
+            ],
+            [
+              -72.366350684502,
+              -37.52962425875393,
+              0
+            ],
+            [
+              -72.36634110517574,
+              -37.53000466379046,
+              0
+            ],
+            [
+              -72.3614714002203,
+              -37.53028797396807,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-22",
+        "item_id": "1832",
+        "name": "SECTOR 3",
+        "code": "11291832-3",
+        "matriz": "NULL",
+        "sector": "3",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35398384768213,
+              -37.52606626876668,
+              0
+            ],
+            [
+              -72.3544737235353,
+              -37.52673273393616,
+              0
+            ],
+            [
+              -72.35342277260771,
+              -37.52775981298548,
+              0
+            ],
+            [
+              -72.35129911683535,
+              -37.52767585358701,
+              0
+            ],
+            [
+              -72.35098515047225,
+              -37.5258396494261,
+              0
+            ],
+            [
+              -72.35398384768213,
+              -37.52606626876668,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-23",
+        "item_id": "1832",
+        "name": "SECTOR 7",
+        "code": "11291832-7",
+        "matriz": "NULL",
+        "sector": "7",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35756102031036,
+              -37.5269994496613,
+              0
+            ],
+            [
+              -72.35613726723761,
+              -37.52811620627086,
+              0
+            ],
+            [
+              -72.35348241335947,
+              -37.52781393661378,
+              0
+            ],
+            [
+              -72.3546247390339,
+              -37.52673731599928,
+              0
+            ],
+            [
+              -72.35756102031036,
+              -37.5269994496613,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-24",
+        "item_id": "1832",
+        "name": "SECTOR 6",
+        "code": "11291832-6",
+        "matriz": "NULL",
+        "sector": "6",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35974533769166,
+              -37.52730265416746,
+              0
+            ],
+            [
+              -72.35846831443371,
+              -37.52841071433905,
+              0
+            ],
+            [
+              -72.35617471751527,
+              -37.52816717421629,
+              0
+            ],
+            [
+              -72.35757578783449,
+              -37.52699968677548,
+              0
+            ],
+            [
+              -72.35974533769166,
+              -37.52730265416746,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-25",
+        "item_id": "1832",
+        "name": "SECTOR 5",
+        "code": "11291832-5",
+        "matriz": "NULL",
+        "sector": "5",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.35975955401429,
+              -37.52728550114436,
+              0
+            ],
+            [
+              -72.36078772544677,
+              -37.52737758747254,
+              0
+            ],
+            [
+              -72.3605877209341,
+              -37.52870456714126,
+              0
+            ],
+            [
+              -72.35855244527882,
+              -37.52842772097321,
+              0
+            ],
+            [
+              -72.35975955401429,
+              -37.52728550114436,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-26",
+        "item_id": "1832",
+        "name": "SECTOR 3",
+        "code": "11291832-3",
+        "matriz": "NULL",
+        "sector": "3",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.31031693459643,
+              -37.52876046819296,
+              0
+            ],
+            [
+              -72.30930661143414,
+              -37.52937218809466,
+              0
+            ],
+            [
+              -72.30786249635855,
+              -37.5284897494549,
+              0
+            ],
+            [
+              -72.30870943552598,
+              -37.52770589400186,
+              0
+            ],
+            [
+              -72.31031693459643,
+              -37.52876046819296,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-27",
+        "item_id": "1835",
+        "name": "SECTOR 1",
+        "code": "11291835-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30796199283174,
+              -37.52722195103683,
+              0
+            ],
+            [
+              -72.30736449044406,
+              -37.5278097672791,
+              0
+            ],
+            [
+              -72.30707006565713,
+              -37.52766437692677,
+              0
+            ],
+            [
+              -72.30681286324588,
+              -37.52789087335857,
+              0
+            ],
+            [
+              -72.30533983825646,
+              -37.52678831679611,
+              0
+            ],
+            [
+              -72.30615670393432,
+              -37.5260145829752,
+              0
+            ],
+            [
+              -72.30796199283174,
+              -37.52722195103683,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-28",
+        "item_id": "1835",
+        "name": "SECTOR 1",
+        "code": "11291835-1",
+        "matriz": "NULL",
+        "sector": "1",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30609882572404,
+              -37.52600729858344,
+              0
+            ],
+            [
+              -72.30527669417694,
+              -37.52677528479956,
+              0
+            ],
+            [
+              -72.3034859417291,
+              -37.52549520289924,
+              0
+            ],
+            [
+              -72.30191415182182,
+              -37.52435922736049,
+              0
+            ],
+            [
+              -72.30249554484634,
+              -37.52378779096914,
+              0
+            ],
+            [
+              -72.3028218177073,
+              -37.5237486723868,
+              0
+            ],
+            [
+              -72.30609882572404,
+              -37.52600729858344,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-29",
+        "item_id": "1835",
+        "name": "SECTOR 2",
+        "code": "11291835-2",
+        "matriz": "NULL",
+        "sector": "2",
+        "associate": "1804",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.31155128220396,
+              -37.52798635176458,
+              0
+            ],
+            [
+              -72.31032157847368,
+              -37.52871796630409,
+              0
+            ],
+            [
+              -72.30945340169386,
+              -37.52814828466708,
+              0
+            ],
+            [
+              -72.31049725518332,
+              -37.52727325923722,
+              0
+            ],
+            [
+              -72.31155128220396,
+              -37.52798635176458,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-30",
+        "item_id": "1835",
+        "name": "SECTOR 3",
+        "code": "11291835-3",
+        "matriz": "NULL",
+        "sector": "3",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30487686304063,
+              -37.52352327812158,
+              0
+            ],
+            [
+              -72.30579703054364,
+              -37.52416050105546,
+              0
+            ],
+            [
+              -72.30484803113794,
+              -37.52509657790441,
+              0
+            ],
+            [
+              -72.302841520375,
+              -37.52371227368077,
+              0
+            ],
+            [
+              -72.3040321995941,
+              -37.52345987877619,
+              0
+            ],
+            [
+              -72.30487686304063,
+              -37.52352327812158,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-31",
+        "item_id": "1835",
+        "name": "SECTOR 4",
+        "code": "11291835-4",
+        "matriz": "NULL",
+        "sector": "4",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30770711381182,
+              -37.52540138681337,
+              0
+            ],
+            [
+              -72.30677760007954,
+              -37.52633914107246,
+              0
+            ],
+            [
+              -72.30490171841996,
+              -37.52508992596903,
+              0
+            ],
+            [
+              -72.30585154255229,
+              -37.52417628008498,
+              0
+            ],
+            [
+              -72.30770711381182,
+              -37.52540138681337,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-32",
+        "item_id": "1835",
+        "name": "SECTOR 5",
+        "code": "11291835-5",
+        "matriz": "NULL",
+        "sector": "5",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30796690456614,
+              -37.52394522147469,
+              0
+            ],
+            [
+              -72.30698350209883,
+              -37.52485084123705,
+              0
+            ],
+            [
+              -72.30496493452505,
+              -37.52350425932009,
+              0
+            ],
+            [
+              -72.3050352509399,
+              -37.52351444786215,
+              0
+            ],
+            [
+              -72.30574036542623,
+              -37.52361336412562,
+              0
+            ],
+            [
+              -72.30689674862685,
+              -37.52276390719601,
+              0
+            ],
+            [
+              -72.30796690456614,
+              -37.52394522147469,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-33",
+        "item_id": "1835",
+        "name": "SECTOR 6",
+        "code": "11291835-6",
+        "matriz": "NULL",
+        "sector": "6",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30961542062406,
+              -37.52571252511913,
+              0
+            ],
+            [
+              -72.30899072397624,
+              -37.52626465774168,
+              0
+            ],
+            [
+              -72.30697557217576,
+              -37.52489738995632,
+              0
+            ],
+            [
+              -72.30796937295699,
+              -37.52396057492437,
+              0
+            ],
+            [
+              -72.30961542062406,
+              -37.52571252511913,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-34",
+        "item_id": "1835",
+        "name": "SECTOR 7",
+        "code": "11291835-7",
+        "matriz": "NULL",
+        "sector": "7",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "MANZANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.30998320049873,
+              -37.5260237099808,
+              0
+            ],
+            [
+              -72.3104888020769,
+              -37.52561091746919,
+              0
+            ],
+            [
+              -72.3117614292852,
+              -37.52783856393251,
+              0
+            ],
+            [
+              -72.31158769026888,
+              -37.52799378835256,
+              0
+            ],
+            [
+              -72.30901144041084,
+              -37.52628835651478,
+              0
+            ],
+            [
+              -72.30961855901762,
+              -37.52574103552811,
+              0
+            ],
+            [
+              -72.30998320049873,
+              -37.5260237099808,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-35",
+        "item_id": "1835",
+        "name": "SECTOR 8",
+        "code": "11291835-8",
+        "matriz": "NULL",
+        "sector": "8",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -72.31044134338225,
+              -37.52725639881832,
+              0
+            ],
+            [
+              -72.30943382100625,
+              -37.52812670891692,
+              0
+            ],
+            [
+              -72.30679971141458,
+              -37.5263273975113,
+              0
+            ],
+            [
+              -72.30773366202824,
+              -37.52545322980451,
+              0
+            ],
+            [
+              -72.31044134338225,
+              -37.52725639881832,
+              0
+            ]
+          ]
+        ]
+      },
+      "properties": {
+        "index": "PL-36",
+        "item_id": "1835",
+        "name": "SECTOR 9",
+        "code": "11291835-9",
+        "matriz": "NULL",
+        "sector": "9",
+        "associate": "NULL",
+        "cropType": "",
+        "field": "AGRÍCOLA NANCAGUA SPA",
+        "tipoCultivo": "AVELLANO",
+        "yearPlantation": "NULL",
+        "fillColor": "#8b96a8",
+        "fillOpacity": 0.85,
+        "strokeWeight": 0.4,
+        "strokeOpacity": 1
+      }
+    }
+  ]
+}
